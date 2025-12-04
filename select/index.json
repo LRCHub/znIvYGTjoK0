@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "夜を待つよ",
+  "base_artist": "Midnight Grand Orchestra",
+  "createdAt": "2025-12-04T15:13:42.556813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜を待つよ",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": true,
+      "path": "select/01_夜を待つよ_Midnight_Grand_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜を待つよ",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": false,
+      "path": "select/02_夜を待つよ_Midnight_Grand_Orchestra.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜を待つよ",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": false,
+      "path": "select/pl_01_夜を待つよ_Midnight_Grand_Orchestra.txt"
+    }
+  ]
+}
